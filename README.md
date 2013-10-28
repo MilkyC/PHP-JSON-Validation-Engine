@@ -20,7 +20,7 @@ Validation can be done via:
 Supports Validation for:
 
 * Required Values
-* Optiona Values
+* Optional Values
 * Conditional Values :
   * If a specific field is present validate a specific scheme
 
